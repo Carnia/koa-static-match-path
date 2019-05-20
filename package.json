@@ -1,0 +1,23 @@
+{
+  "name": "koa-static-path",
+  "version": "0.0.1",
+  "description": "一个将静态资源映射到指定路由的中间件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carnia/koa-static-path.git"
+  },
+  "keywords": [
+    "koa",
+    "static"
+  ],
+  "author": "Carnia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carnia/koa-static-path/issues"
+  },
+  "homepage": "https://github.com/Carnia/koa-static-path#readme"
+}
