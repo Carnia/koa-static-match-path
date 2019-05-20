@@ -1,5 +1,5 @@
 {
-  "name": "koa-static-path",
+  "name": "koa-static-match-path",
   "version": "0.0.1",
   "description": "一个将静态资源映射到指定路由的中间件",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Carnia/koa-static-path.git"
+    "url": "git+https://github.com/Carnia/koa-static-match-path.git"
   },
   "keywords": [
     "koa",
@@ -17,7 +17,7 @@
   "author": "Carnia",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Carnia/koa-static-path/issues"
+    "url": "https://github.com/Carnia/koa-static-match-path/issues"
   },
-  "homepage": "https://github.com/Carnia/koa-static-path#readme"
+  "homepage": "https://github.com/Carnia/koa-static-match-path#readme"
 }
